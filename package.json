@@ -1,0 +1,23 @@
+{
+  "name": "voicebox-maths",
+  "version": "0.1.0",
+  "description": "A VoiceBox respond for maths equations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VoiceBoxApp/voicebox-maths"
+  },
+  "keywords": [
+    "voicebox",
+    "maths"
+  ],
+  "author": "Thomas Cullen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VoiceBoxApp/voicebox-maths/issues"
+  },
+  "homepage": "https://github.com/VoiceBoxApp/voicebox-maths"
+}
